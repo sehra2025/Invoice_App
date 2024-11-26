@@ -4,5 +4,5 @@ Built with the MERN stack (MongoDB, Express, React and NodeJS).
 Backend - https://acountill-backend.vercel.app/
 
 ## Introduction
-Test Email : muditvir@muditvir.com  
-Password : muditvir
+Test Email : sheerafamily@sheera.com  
+Password : sheerafamily
